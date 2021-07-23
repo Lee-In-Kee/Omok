@@ -1,7 +1,7 @@
 import re
 # 오목판 설계
 row = {}
-column = {}
+column = {} 
 
 for i in range(0,15):
     row[i] = '+'*15
